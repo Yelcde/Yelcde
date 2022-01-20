@@ -3,7 +3,7 @@
 - 🔭 Estou trabalhando com HTML e CSS
 - 🌱 Estou aprendendo HTML e CSS
 - 📫 Estou procurando trabalhar como Front
-- ⚡ Me chame de JoãoNér
+- ⚡ Me chame de Yelcde
 -->
 
 <div align="center">
