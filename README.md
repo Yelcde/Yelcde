@@ -1,7 +1,7 @@
 ## Olá!! Eu sou Yelcde!!
 
 <!-- - 🔭 Estou trabalhando com HTML e CSS-->
-- 🌱 Estou aprendendo HTML e CSS
+- 🌱 Estou aprendendo HTML, CSS e JAVA SCRIPT
 - 📫 Estou procurando trabalhar como Frontend
 - ⚡ Me chame de Yelcde
 -->
@@ -30,3 +30,4 @@
    
    ![Snake animation](https://github.com/Yelcde/Yelcde/blob/output/github-contribution-grid-snake.svg)
 </div>
+ 
