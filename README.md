@@ -1,7 +1,7 @@
 ## Olá!! Eu sou Yelcde!!
 
 <!-- - 🔭 Estou trabalhando com HTML e CSS-->
-- 🌱 Estou aprendendo HTML, CSS e JAVASCRIPT
+- 🌱 Estou aprendendo HTML, CSS, JS e PYTHON
 - 📫 Estou procurando trabalhar como Frontend
 - ⚡ Me chame de Yelcde
 -->
