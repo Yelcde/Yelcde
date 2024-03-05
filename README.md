@@ -2,7 +2,7 @@
 
 <!-- - 🔭 Estou trabalhando com HTML e CSS-->
 - 🌱 Estou aprendendo HTML, CSS, JS, PYTHON e JAVA
-- 📫 Estou procurando trabalhar como Frontend
+- 📫 Estou procurando trabalhar como Backend
 - ⚡ Me chame de Yelcde
 -->
 
